@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=IT%20Student&textBg=false&desc=Learn%20and%20Develop%20for%20Future" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I’m Rachata Kongchan <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
