@@ -35,9 +35,9 @@
 ---
 
 ## 📌 Featured Projects
-| Project    | Tech              | Description                                      |
-|------------|-------------------|--------------------------------------------------|
-| Art Market | Java / Springboot | A project about Art Market and Copyright Tranfer |
+| Project    | Tech              | Description                                      | Link                                                           |
+|------------|-------------------|--------------------------------------------------|----------------------------------------------------------------|
+| Art Market | Java / Springboot | A project about Art Market and Copyright Tranfer | https://github.com/Punkung315/Art-and-copyright-trading-system |
 
 
 ## 📈 GitHub Stats
